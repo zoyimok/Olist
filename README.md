@@ -11,7 +11,7 @@ After a customer purchases the product from Olist Store a seller gets notified t
 
 
 ## Dashboard
-[![Dashboard](CCC)
+[![Dashboard](https://github.com/zoyimok/Olist/blob/main/dashboard/business_overview.png)
 *Click on the image to access the Dashboard*
 
 

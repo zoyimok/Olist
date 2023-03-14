@@ -41,4 +41,5 @@ What are the top 5 product categories?
 | Format | Link |
 |--|--|
 |Power BI online|[Link](https://app.powerbi.com/view?r=eyJrIjoiYTYxN2U3ZWQtODU2ZS00ZDk5LTllODMtNWIwMDQ4NjNiZmYwIiwidCI6IjY5Zjg3NmFmLTI0NzItNDM1OS1iNmMwLTM0NmQ0Njk5NzdkMiIsImMiOjEwfQ%3D%3D)|
+|Power BI offline|[Link](https://github.com/zoyimok/Olist/blob/main/dashboard/Olist_final_project(1).pdf)|
 

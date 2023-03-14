@@ -35,7 +35,7 @@ Provide some recommendations and improvements
 
 
 ## PowerBI Dashboard
-![Dashboard]([https://github.com/zoyimok/Olist/blob/main/dashboard/business_overview.png])
+![Dashboard]([https://github.com/zoyimok/Olist/blob/main/dashboard/business_overview.png)]
 *Click on the image to access the Dashboard*
 
 

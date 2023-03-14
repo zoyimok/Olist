@@ -14,14 +14,21 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 Create data pipeline to ingest data in PostgreSQL or SQL server database
 Use Power BI to answer following questions:
+
 How many customers, orders, and orders per customer does the company have?
+
 What is the number of customers by state?
+
 What is the number of orders by month?
+
 What are the top 5 product categories?
 
 Visualise the company’s customers’ demographics, sales trend, orders by categories, orders changes by year, etc. and use Power BI to help make better decisions
+
 Map and compare report data with data from database query to validate the reports
+
 Critically analyse relevant data using statistical methods
+
 Provide some recommendations and improvements
 
 

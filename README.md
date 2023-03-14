@@ -10,12 +10,28 @@ After a customer purchases the product from Olist Store a seller gets notified t
 [Kaggle Dataset]([https://www.kaggle.com/datasets/zmokmok/olist]).
 
 
-## Dashboard
+## Objective
+
+Create data pipeline to ingest data in PostgreSQL or SQL server database
+Use Power BI to answer following questions:
+How many customers, orders, and orders per customer does the company have?
+What is the number of customers by state?
+What is the number of orders by month?
+What are the top 5 product categories?
+Visualise the company’s customers’ demographics, sales trend, orders by categories, orders changes by year, etc. and use Power BI to help make better decisions
+Map and compare report data with data from database query to validate the reports
+Critically analyse relevant data using statistical methods
+Provide some recommendations and improvements
+
+
+
+
+## PowerBI Dashboard
 [![Dashboard](https://github.com/zoyimok/Olist/blob/main/dashboard/business_overview.png)
 *Click on the image to access the Dashboard*
 
 
-| File | Link |
+| Format | Link |
 |--|--|
 |Power BI online|[Link](https://app.powerbi.com/view?r=eyJrIjoiYTYxN2U3ZWQtODU2ZS00ZDk5LTllODMtNWIwMDQ4NjNiZmYwIiwidCI6IjY5Zjg3NmFmLTI0NzItNDM1OS1iNmMwLTM0NmQ0Njk5NzdkMiIsImMiOjEwfQ%3D%3D)|
 

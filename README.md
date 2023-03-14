@@ -2,7 +2,6 @@
 This project was an analysis of Olist Business from public data of the Brazilian e-commerce named Olist
 
 ## Dataset
-Content
 This dataset was generously provided by Olist, the largest department store in Brazilian marketplaces. Olist connects small businesses from all over Brazil to channels without hassle and with a single contract. Those merchants are able to sell their products through the Olist Store and ship them directly to the customers using Olist logistics partners. See more on the company website: www.olist.com
 
 After a customer purchases the product from Olist Store a seller gets notified to fulfill that order. Once the customer receives the product, or the estimated delivery date is due, the customer gets a satisfaction survey by email where he can give a note for the purchase experience and write down some comments.
@@ -10,24 +9,32 @@ After a customer purchases the product from Olist Store a seller gets notified t
 [Kaggle Dataset]([https://www.kaggle.com/datasets/zmokmok/olist]).
 
 
-## Objective
+
+## Objectives
 
 Create data pipeline to ingest data in PostgreSQL or SQL server database
-Use Power BI to answer following questions:
+
+-Use Power BI to answer following questions:
+
 How many customers, orders, and orders per customer does the company have?
+
 What is the number of customers by state?
+
 What is the number of orders by month?
+
 What are the top 5 product categories?
-Visualise the company’s customers’ demographics, sales trend, orders by categories, orders changes by year, etc. and use Power BI to help make better decisions
-Map and compare report data with data from database query to validate the reports
-Critically analyse relevant data using statistical methods
-Provide some recommendations and improvements
 
+-Visualise the company’s customers’ demographics, sales trend, orders by categories, orders changes by year, etc. and use Power BI to help make better decisions
 
+-Map and compare report data with data from database query to validate the reports
+
+-Critically analyse relevant data using statistical methods
+
+-Provide some recommendations and improvements
 
 
 ## PowerBI Dashboard
-[![Dashboard](https://github.com/zoyimok/Olist/blob/main/dashboard/business_overview.png)
+![Dashboard](https://github.com/zoyimok/Olist/blob/main/dashboard/business_overview.png)
 *Click on the image to access the Dashboard*
 
 

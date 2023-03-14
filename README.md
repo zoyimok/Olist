@@ -35,9 +35,8 @@ Provide some recommendations and improvements
 
 
 ## PowerBI Dashboard
-![Dashboard]([https://github.com/zoyimok/Olist/blob/main/dashboard/Olist_final_project(1).pdf])
+![Dashboard]([https://github.com/zoyimok/Olist/blob/main/dashboard/business_overview.png])
 *Click on the image to access the Dashboard*
-
 
 
 | Format | Link |

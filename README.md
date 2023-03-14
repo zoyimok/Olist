@@ -10,6 +10,7 @@ https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
 
 
 
+
 ## Objectives
 
 Create data pipeline to ingest data in PostgreSQL or SQL server database
@@ -30,6 +31,7 @@ Map and compare report data with data from database query to validate the report
 Critically analyse relevant data using statistical methods
 
 Provide some recommendations and improvements
+
 
 
 ## PowerBI Dashboard
